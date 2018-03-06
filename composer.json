@@ -1,4 +1,7 @@
 {
     "name": "DaveRandom/Code39",
-    "type": "library"
+    "type": "library",
+    "autoload": {
+        "psr-4": { "": "src/" }
+    }
 }
